@@ -1,0 +1,29 @@
+Alx Project
+
+Task 0
+
+Definitions and Explanations
+
+What is a server?
+    A server is a device, a virtual device or computer programme or providing functionality for other programs, or devices, called clients
+
+whats the role of an Applicaction server?
+    The role of an Applicaction Server is to generate dynamic contents by executing server-side code such as JSP, Ajax, PHP executing
+
+    whats the role of a database?
+    A database plays a crucial role in managing and organizing large volumes of data in a structured format. It serves as a centralized repository where information can be stored, accessed, and manipulated efficiently. Let's explore some key functions and responsibilities of a database:
+
+    First and foremost, a database acts as a storage system, allowing us to securely store diverse types of data. It can accommodate everything from simple text entries to complex multimedia files, ensuring that all information is kept in one place.
+
+    One of the primary advantages of a database is its ability to organize data in a logical manner. It employs tables, rows, and columns to structure the data, making it easier to retrieve and manipulate. This logical organization ensures data integrity and consistency, which are essential for accurate and reliable information.
+
+    When it comes to accessing data, databases provide powerful retrieval capabilities. Users can perform queries and searches to fetch specific data based on their requirements. This ability to quickly retrieve information is vital for efficient data analysis and decision-making.
+
+    In addition to data retrieval, databases enable users to manipulate the stored information. They offer features to add, update, and delete data, allowing for modifications and additions as needed. This ensures that the database remains up-to-date and relevant.
+
+    Data security is another critical aspect of database management. Databases incorporate various security measures, such as access controls, authentication, and encryption, to protect sensitive data from unauthorized access or breaches. These security features ensure that data remains confidential
+
+
+what is the server using to communicate with the computer of the user requesting the website?    
+    When a user requests a website, the server uses a communication protocol called HTTP (Hypertext Transfer Protocol) to interact with the user's computer. HTTP is the foundation of the World Wide Web and is commonly employed for communication between web servers and clients, such as popular web browsers like Chrome, Firefox, or Safari.
+
